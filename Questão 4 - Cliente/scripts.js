@@ -44,7 +44,7 @@
 
             let volumeContainer = data.container.width * data.container.length * data.container.height
             let labelVolumeContainer = document.getElementById("volume-container");
-            labelVolumeContainer.innerHTML = `${volumeContainer} m³`
+            labelVolumeContainer.innerHTML = `${volumeContainer} cm³`
             var totalBoxes = 0
 
 
@@ -123,7 +123,7 @@
             }                         
 
             let volume = document.getElementById("volume");
-            volume.innerHTML = `${BoxesVolume} m³`
+            volume.innerHTML = `${BoxesVolume} cm³`
             let howMany = document.getElementById("how-many");
             howMany.innerHTML = `${solution.boxes.length} caixas`
             let totalBoxes1 = document.getElementById("total-1");
