@@ -1,0 +1,7 @@
+JavaScript
+
+O JavaScript é atualmente uma das linguagens de programação mais utilizada no mundo. O que não causa nenhum espanto, uma vez que, junto com HTML e CSS, forma a base de interação da WWW. É a linguagem interpretada pelos navegadores, apesar de mais recentemente ter começado a ser utilizada em outras aplicações também, como no backend (com o Node.JS) e até mesmo em aplicações desktop. Foi originalmente desenvolvida no interior da antiga Netscape já com esse objetivo, de servir de linguagem para que os browsers pudessem entregar uma melhor experiência aos usuários e abrir novas possibilidades aos desenvolvedores e aos criadores de conteúdo.
+
+Assim como o Visual Basic, o JavasScript é uma linguagem interpretada, de tipagem fraca e dinâmica, o que a diferencia de linguagens como C e Pascal, por exemplo, que são compiladas e mais estruturadas. Essa característica dinâmica e divertida do JavaScript a torna uma linguagem agradável de programar, mas que também, pelo mesmo motivo, pode causar alguns problemas “imprevisíveis” e pode ser mais difícil de debugar do que as outras linguagens citadas.
+
+JavaScript tem sido minha linguagem preferida nos últimos meses, para a qual tenho dedicado meus estudos. 

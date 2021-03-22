@@ -1,0 +1,52 @@
+      
+        h1{
+            color:firebrick;
+            text-align: center;
+        }
+        h4{
+            color:gray
+        }
+        p{
+            text-align: center;
+        }
+       
+        #div-loading {
+            display:none;
+            text-align: center;
+        }
+        #div-report {
+            display:none;
+            text-align: center;
+        }
+        #report-table {
+            border-collapse: collapse;
+        }
+        .form-group {
+            padding-left:15px;
+            padding-right:15px;
+            text-align:left;
+        }
+        .card-deck{
+            margin-left: 15px;
+            margin-right: 15px;            
+        }
+        .form-control {
+            margin-top: -5px;
+        }
+        .card-header {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+        .btn{
+            margin-top: 30px;
+            margin-bottom: 50px;
+            text-align: center;
+            min-width:300px;
+        }
+        .espaco{
+            margin-top: 60px;
+        }
+        .table-title{
+            margin-bottom: 20px;
+        }
